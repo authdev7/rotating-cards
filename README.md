@@ -1,10 +1,10 @@
 # Playing Card Project Solution
 
-This project was inspired by my [Playing Cards Project](https://weebdora.github.io/playing-cards/)
+This project was inspired by my [Playing Cards Project](https://authdev7.github.io/playing-cards/)
 
 ## Live Demo
 
-[Live Demo of Rotating Cards](https://weebdora.github.io/rotating-cards/)
+[Live Demo of Rotating Cards](https://authdev7.github.io/rotating-cards/)
 ## Screenshot 
 
 ![Playing Cards Preview](/preview.png)
